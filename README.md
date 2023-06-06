@@ -1,7 +1,7 @@
-• 👋 Hello! This is Hanumanth Raghavendra
-• 🌱 I’m currently learning Full-Stack Web Development
-• 🐉 I'm interested in Cyber Security
-• 📫 How to reach me: Hanumanth-Raghavendra
+• 👋 Hello! This is Hanumanth Raghavendra  
+• 🌱 I’m currently learning Full-Stack Web Development  
+• 🐉 I'm interested in Cyber Security  
+• 📫 How to reach me: Hanumanth-Raghavendra  
 • 👯 I’m looking to collaborate on github
 <!--
 **Hanumanth-Raghavendra/Hanumanth-Raghavendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
