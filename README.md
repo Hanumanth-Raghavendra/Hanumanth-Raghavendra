@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Hanumanth-Raghavendra)
+
 • 👋 Hello! This is Hanumanth Raghavendra  
 • 🌱 I’m currently learning Full-Stack Web Development  
 • 🐉 I'm interested in Cyber Security  
@@ -6,8 +8,6 @@
 
 <a href="https://app.daily.dev/hackingpanda"><img src="https://api.daily.dev/devcards/v2/KHBiB6FcqsJ3LEFAUeAZE.png?type=wide&r=sor" width="652" alt="Hanumanth Raghavendra Boienpally's Dev Card"/></a>
 
-
-![](https://komarev.com/ghpvc/?username=Hanumanth-Raghavendra)
 <!--
 **Hanumanth-Raghavendra/Hanumanth-Raghavendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
