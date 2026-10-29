@@ -8,7 +8,7 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 | Project | What it is | Stack |
 |---|---|---|
 | [**Blind Coder**]([Frontend](<https://github.com/Hanumanth-Raghavendra/blindcoder-frontend>) · [Backend](<https://github.com/Hanumanth-Raghavendra/blindcoder-backend>)) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice | React, Node.js, Web Speech API, Pyodide, Gemini |
-| [**Employee Management System**](<https://github.com/Hanumanth-Raghavendra/EMS_Full_Stack>) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
+| [**Employee Management System**](<https://hanumanth-ems.vercel.app>) Repo(<https://github.com/Hanumanth-Raghavendra/EMS_Full_Stack>) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
 | [**Portfolio**](<hanumanth-raghavendra.vercel.app>) | My personal site, built with GSAP animations | React, GSAP |
 
 ## Tech stack
