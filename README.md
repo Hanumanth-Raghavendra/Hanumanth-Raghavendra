@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hanumanth-raghavendra.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Graduate+%C2%B7+Osmania+University;GATE+CSE+2026+Qualified;Building+Blind+Coder%3A+a+voice-driven+IDE;React+%2B+Node.js+%2B+Spring+Boot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+apps;From+database+to+UI%2C+end+to+end;Making+code+accessible+by+voice;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,10 +56,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hanumanth-Raghavendra&theme=tokyonight" height="170" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanumanth-Raghavendra&theme=tokyonight" height="170" alt="Repos per language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hanumanth-Raghavendra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Footer"/>
