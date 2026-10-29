@@ -7,9 +7,9 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Blind Coder**](<blind-coder-repo-url>) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice | React, Node.js, Web Speech API, Pyodide, Gemini |
-| [**Employee Management System**](<ems-repo-url>) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
-| [**Portfolio**](<portfolio-url>) | My personal site, built with GSAP animations | React, GSAP |
+| [**Blind Coder**](<https://github.com/Hanumanth-Raghavendra/blindcoder-frontend><https://github.com/Hanumanth-Raghavendra/blindcoder-backend>) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice | React, Node.js, Web Speech API, Pyodide, Gemini |
+| [**Employee Management System**](<https://github.com/Hanumanth-Raghavendra/EMS_Full_Stack>) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
+| [**Portfolio**](<hanumanth-raghavendra.vercel.app>) | My personal site, built with GSAP animations | React, GSAP |
 
 ## Tech stack
 
@@ -24,4 +24,4 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/hanumanth-raghavendra/) · [Email](mailto:raghavendra.boienpally@gmail.com) · [Portfolio](<portfolio-url>)
+[LinkedIn](https://www.linkedin.com/in/hanumanth-raghavendra/) · [Email](mailto:raghavendra.boienpally@gmail.com) · [Portfolio](<hanumanth-raghavendra.vercel.app>)
