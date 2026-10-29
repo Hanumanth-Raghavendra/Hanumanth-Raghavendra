@@ -9,7 +9,7 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Blind Coder**](<https://blindcoder.vercel.app>) <br/> ([Frontend](<https://github.com/Hanumanth-Raghavendra/blindcoder-frontend>) · [Backend](<https://github.com/Hanumanth-Raghavendra/blindcoder-backend>)) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice | React, Node.js, Web Speech API, Pyodide, Gemini |
+| [**Blind Coder**](<https://blindcoder.vercel.app>) <br/> ([Frontend](<https://github.com/Hanumanth-Raghavendra/blindcoder-frontend>) · [Backend](<https://github.com/Hanumanth-Raghavendra/blindcoder-backend>)) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice. Reads code line by line, explains errors aloud and plays success/error tones | React, Node.js, Web Speech API, Pyodide, Gemini |
 | [**Employee Management System**](<https://hanumanth-ems.vercel.app>) <br/> ([Repo](<https://github.com/Hanumanth-Raghavendra/EMS_Full_Stack>)) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
 | [**Portfolio**](<https://hanumanth-raghavendra.vercel.app>) | My personal site, built with GSAP animations | React, GSAP |
 
@@ -23,6 +23,11 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+## Certifications
+- **GATE 2026**: Computer Science and Information Technology (qualified)
+- **EF SET English**: 63/100 (C1 Advanced)
+- **AWS Cloud Computing Internship**: BrainoVision Solutions (2023)
 
 ## Connect
 
