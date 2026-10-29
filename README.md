@@ -24,4 +24,4 @@ I build web apps end to end with React, Node.js and Spring Boot, and I'm current
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/hanumanth-raghavendra/) · [Email](mailto:raghavendra.boienpally@gmail.com) · [Portfolio](<hanumanth-raghavendra.vercel.app>)
+[LinkedIn](https://www.linkedin.com/in/hanumanth-raghavendra/) · [Email](mailto:raghavendra.boienpally@gmail.com) · [Portfolio](<https://hanumanth-raghavendra.vercel.app>)
