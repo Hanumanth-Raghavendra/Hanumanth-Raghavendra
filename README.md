@@ -1,23 +1,27 @@
-![](https://komarev.com/ghpvc/?username=Hanumanth-Raghavendra)
+# Hi, I'm Hanumanth Raghavendra 👋
 
-• 👋 Hello! This is Hanumanth Raghavendra  
-• 🌱 I’m currently learning Full-Stack Web Development  
-• 🐉 I'm interested in Cyber Security  
-• 📫 How to reach me: Hanumanth-Raghavendra  
-• 👯 I’m looking to collaborate on GitHub
+MCA graduate (Osmania University) · **GATE CSE 2026 qualified** · Full-stack developer in Hyderabad.
+I build web apps end to end with React, Node.js and Spring Boot, and I'm currently interning in Technology Delivery at Winfo Solutions.
 
-<a href="https://app.daily.dev/hackingpanda"><img src="https://api.daily.dev/devcards/v2/KHBiB6FcqsJ3LEFAUeAZE.png?type=wide&r=emh" width="652" alt="Hanumanth Raghavendra Boienpally's Dev Card"/></a>
+## Featured projects
 
-<!--
-**Hanumanth-Raghavendra/Hanumanth-Raghavendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it is | Stack |
+|---|---|---|
+| [**Blind Coder**](<blind-coder-repo-url>) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice | React, Node.js, Web Speech API, Pyodide, Gemini |
+| [**Employee Management System**](<ems-repo-url>) | HR platform with 49 REST endpoints, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
+| [**Portfolio**](<portfolio-url>) | My personal site, built with GSAP animations | React, GSAP |
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/hanumanth-raghavendra/) · [Email](mailto:raghavendra.boienpally@gmail.com) · [Portfolio](<portfolio-url>)
