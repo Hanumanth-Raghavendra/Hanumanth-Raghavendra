@@ -3,6 +3,8 @@
 MCA graduate (Osmania University) · **GATE CSE 2026 qualified** · Full-stack developer in Hyderabad.
 I build web apps end to end with React, Node.js and Spring Boot, and I'm currently interning in Technology Delivery at Winfo Solutions.
 
+[![daily.dev](https://img.shields.io/badge/daily.dev-hackingpanda-black?logo=dailydotdev)](https://app.daily.dev/hackingpanda)
+
 ## Featured projects
 
 | Project | What it is | Stack |
