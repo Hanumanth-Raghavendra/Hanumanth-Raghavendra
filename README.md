@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hanumanth-raghavendra.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+apps;From+database+to+UI%2C+end+to+end;Making+code+accessible+by+voice;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+apps;From+database+to+UI%2C+end+to+end;Tested%2C+CI-checked+and+deployed;Making+code+accessible+by+voice;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,22 +15,25 @@
 - 🎓 **MCA graduate**, Osmania University (CGPA 8.8) · **GATE CSE 2026 qualified**
 - 💼 Interning in **Technology Delivery at Winfo Solutions**, Hyderabad
 - 🛠️ I build web apps end to end: React on the front, Node.js / Spring Boot + PostgreSQL on the back
-- ♿ Currently building **Blind Coder**, an IDE that blind developers can drive entirely by voice
+- 🚀 Latest build: **Trackly**, a productivity app with two backend services, an Android app, 120+ automated tests and CI. [Try the live demo](https://trackly-hr.vercel.app)
+- ♿ Built **Blind Coder**, an IDE that blind developers can drive entirely by voice
+- 📚 Learning **Azure**
 - 📫 Reach me at **raghavendra.boienpally@gmail.com**
 
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,js,python,c,postgres,mysql,docker,aws,git,github,vite,tailwind&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,express,js,python,c,postgres,mysql,docker,aws,git,github,githubactions,vite,tailwind,maven,vercel&perline=10" alt="Tech stack" />
 </p>
 
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Trackly**](https://trackly-hr.vercel.app) <br/> ([Repo](https://github.com/Hanumanth-Raghavendra/trackly)) | Behaviour-based productivity system: tasks, habits and focus sessions feed one explainable daily score, with coach cards and a weekly review. Two backend services joined by a transactional outbox, rotating refresh-token auth, an Android app, 120+ automated tests and GitHub Actions CI | React, TypeScript, Spring Boot, Node.js, PostgreSQL, Docker |
 | [**Blind Coder**](https://blindcoder.vercel.app) <br/> ([Frontend](https://github.com/Hanumanth-Raghavendra/blindcoder-frontend) · [Backend](https://github.com/Hanumanth-Raghavendra/blindcoder-backend)) | Voice-operated, browser-based IDE that lets blind developers write, run and debug code by voice. Reads code line by line, explains errors aloud and plays success/error tones | React, Node.js, Web Speech API, Pyodide, Gemini |
 | [**Employee Management System**](https://hanumanth-ems.vercel.app) <br/> ([Repo](https://github.com/Hanumanth-Raghavendra/EMS_Full_Stack)) | HR platform with 49 REST endpoints across 10 tables, JWT role-based access, audit logging, Flyway migrations | React, Spring Boot, PostgreSQL |
-| [**Portfolio**](https://hanumanth-raghavendra.vercel.app) | My personal site, built with GSAP animations | React, GSAP |
+| [**Portfolio**](https://hanumanth-raghavendra.vercel.app) | My personal site, with a hidden anime world behind a portal. Built with GSAP animations | React, GSAP |
 
 ## 📜 Certifications
 
